@@ -1,0 +1,86 @@
+[
+    {
+      "id": 1,
+      "name": "SpongeBob",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61DtifO%2BqmL._SY355_.jpg",
+      "occupation": "Fry Cook",
+      "location": "A Pineapple Under the Sea"
+    },
+    {
+      "id": 2,
+      "name": "Mr. Krabs",
+      "image": "https://images.uncyc.org/commons/thumb/7/7b/Mr.%2BKrabs.gif.png/300px-Mr.%2BKrabs.gif.png",
+      "occupation": "Restaurant Owner",
+      "location": "A Giant Anchor"
+    },
+    {
+      "id": 3,
+      "name": "Squidward",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Squidward_Tentacles.svg/220px-Squidward_Tentacles.svg.png",
+      "occupation": "Cashier",
+      "location": "An Easter Island Head"
+    },
+    {
+      "id": 4,
+      "name": "Dexter",
+      "image": "https://static.comicvine.com/uploads/scale_small/2/26503/878359-dexter3.jpg",
+      "occupation": "Boy Genius",
+      "location": "A Secret Laboratory"
+    },
+    {
+      "id": 5,
+      "name": "Courage",
+      "image": "https://data.whicdn.com/images/238259962/large.jpg",
+      "occupation": "A Cowardly Dog",
+      "location": "Nowhere, Kansas"
+    },
+    {
+      "id": 6,
+      "name": "Doug Funnie",
+      "image": "https://streetsignsto.files.wordpress.com/2012/05/tumblr_kymykliz9p1qanok5.jpg",
+      "occupation": "Student",
+      "location": "Bluffington"
+    },
+    {
+      "id": 7,
+      "name": "Bugs Bunny",
+      "image": "https://i.kym-cdn.com/photos/images/newsfeed/000/042/315/funny-pictures-oh-hai-bug.jpg",
+      "occupation": "Looney Toon",
+      "location": "A Rabbit Burrow"
+    },
+    {
+      "id": 8,
+      "name": "Johnny Bravo",
+      "image": "https://www.turner.com/s3fs-public/image_u/img_johnny-bravo-flexing-2_2.jpg",
+      "occupation": "Ladies Man",
+      "location": "Aron City"
+    },
+    {
+      "id": 9,
+      "name": "Tommy Pickles",
+      "image": "https://a1cf74336522e87f135f-2f21ace9a6cf0052456644b80fa06d4f.ssl.cf2.rackcdn.com/images/characters/p-Rugrats-Elizabeth-Daily-Tommy-Pickles.jpg",
+      "occupation": "Adventurer",
+      "location": "California"
+    },
+    {
+      "id": 10,
+      "name": "Rocko",
+      "image": "http://vignette3.wikia.nocookie.net/rockosmodernlife/images/9/9e/Rockos-modern-life-4e582a8f06a41.png/revision/latest?cb=20130522173416",
+      "occupation": "Cashier",
+      "location": "O-Town, California"
+    },
+    {
+      "id": 11,
+      "name": "Captain Planet",
+      "image": "http://vignette2.wikia.nocookie.net/dragon-rap-battles/images/b/b6/Captain_Planet.png/revision/latest?cb=20160911200836",
+      "occupation": "Superhero",
+      "location": "Earth"
+    },
+    {
+      "id": 12,
+      "name": "Ickis",
+      "image": "http://static.tvtropes.org/pmwiki/pub/images/ickis.png",
+      "occupation": "Ahhhh! A Real Monster!",
+      "location": "Under a City Dump"
+    }
+  ]
