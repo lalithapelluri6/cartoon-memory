@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.feaaace1.chunk.css",
-    "main.js": "/static/js/main.3995e7a9.chunk.js",
-    "main.js.map": "/static/js/main.3995e7a9.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.8fa3d35f.chunk.js": "/static/js/2.8fa3d35f.chunk.js",
-    "static/js/2.8fa3d35f.chunk.js.map": "/static/js/2.8fa3d35f.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.1e2b19241284ca0998b497fe7de6c02e.js": "/precache-manifest.1e2b19241284ca0998b497fe7de6c02e.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.feaaace1.chunk.css.map": "/static/css/main.feaaace1.chunk.css.map",
-    "static/media/logo.svg": "/static/media/logo.ee7cd8ed.svg"
+    "main.css": "/cartoon-memory/static/css/main.feaaace1.chunk.css",
+    "main.js": "/cartoon-memory/static/js/main.208b5c97.chunk.js",
+    "main.js.map": "/cartoon-memory/static/js/main.208b5c97.chunk.js.map",
+    "runtime~main.js": "/cartoon-memory/static/js/runtime~main.84df97d6.js",
+    "runtime~main.js.map": "/cartoon-memory/static/js/runtime~main.84df97d6.js.map",
+    "static/js/2.8fa3d35f.chunk.js": "/cartoon-memory/static/js/2.8fa3d35f.chunk.js",
+    "static/js/2.8fa3d35f.chunk.js.map": "/cartoon-memory/static/js/2.8fa3d35f.chunk.js.map",
+    "index.html": "/cartoon-memory/index.html",
+    "precache-manifest.d15774d0e6d56663a88b4846a521c2ff.js": "/cartoon-memory/precache-manifest.d15774d0e6d56663a88b4846a521c2ff.js",
+    "service-worker.js": "/cartoon-memory/service-worker.js",
+    "static/css/main.feaaace1.chunk.css.map": "/cartoon-memory/static/css/main.feaaace1.chunk.css.map",
+    "static/media/logo.svg": "/cartoon-memory/static/media/logo.ee7cd8ed.svg"
   }
 }
