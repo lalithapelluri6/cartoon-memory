@@ -4,8 +4,6 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@webassemblyjs/leb128": "^1.8.5",
-    "acorn-dynamic-import": "^4.0.0",
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
